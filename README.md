@@ -1,4 +1,5 @@
 #  Postgres Docker Image
 
 ## Version:
-- **12.4-alpine**
+-  **Postgres:** 12.4-alpine
+-  **Alpine:** 3.12
